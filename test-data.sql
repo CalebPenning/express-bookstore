@@ -1,4 +1,4 @@
-\c books
+\c books-test 
 
 CREATE TABLE books (
   isbn TEXT PRIMARY KEY,
@@ -11,4 +11,4 @@ CREATE TABLE books (
   year INTEGER
 );
 
-\q 
+ \q
